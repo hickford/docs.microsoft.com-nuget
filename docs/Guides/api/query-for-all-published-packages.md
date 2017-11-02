@@ -78,7 +78,7 @@ The main logic of the code is visible in the
 [`Program.cs`](https://github.com/NuGet/Samples/blob/master/CatalogReaderExample/CatalogReaderExample/Program.cs)
 file.
 
-### Example output
+### Sample output
 
 ```
 No cursor found. Defaulting to 11/2/2017 9:41:28 PM.
